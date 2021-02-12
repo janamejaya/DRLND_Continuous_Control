@@ -62,7 +62,8 @@ A local and a target network were used for the Critic.
 - batch size for drawn experience = 128
 - number of batches used for training = 10
 
-The algorithm implementation I used is based on the version provided by Udacity in the Deep Reinforcement Learning Nano-degree program github repository.
+#### Implementation
+The algorithm implementation I used is based on the version provided by Udacity in the Deep Reinforcement Learning Nano-degree program github repository [https://github.com/udacity/deep-reinforcement-learning]
 
 
 ### Exprimental setup
